@@ -1,1 +1,0 @@
-trabajo usando la funcion "dowhile"
